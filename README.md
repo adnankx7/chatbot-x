@@ -11,23 +11,6 @@ This project is a **Retrieval-Augmented Generation (RAG)** chatbot built using:
 It supports both a web interface and a JSON API to answer questions using content from a local text file.
 
 ---
-## 📁 Project Structure
-
-project/
-├── app.py # Flask web and API server
-├── docs/
-│ └── drivepk.txt # Document used for retrieval
-├── src/
-│ └── chatbot.py # RAG chain builder logic
-├── templates/
-│ └── index.html # Web UI template
-├── tests/
-│ └── test_chatbot.py # Pytest test cases
-├── .env # Environment variables
-└── README.md # This file
-
-
----
 
 ## 🚀 Features
 
